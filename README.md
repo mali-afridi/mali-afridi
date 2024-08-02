@@ -9,11 +9,11 @@
   <tr>
     <td style="text-align: center;">
       <p><strong>GEN AI</strong></p>
-      <img src="af9.png" height="300">
+      <img src="af9.png" height="270" width = "270">
     </td>
     <td style="text-align: center;">
       <p><strong>Histopathology</strong></p>
-      <img src="aperio3.png" height="270">
+      <img src="hist.png" height="270">
     </td>
     <td style="text-align: center;">
       <p><strong>Computer Vision</strong></p>
