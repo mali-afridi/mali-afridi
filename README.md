@@ -17,7 +17,7 @@
     </td>
     <td style="text-align: center;">
       <p><strong>Computer Vision</strong></p>
-      <img src="35.jpg" width = "400">
+      <img src="35.jpg" height = "270">
     </td>
   </tr>
 </table>
