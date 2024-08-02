@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="af9.png" height="150" width="200">
+</p>
 <!--
 **mali-afridi/mali-afridi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
