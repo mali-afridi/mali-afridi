@@ -13,11 +13,11 @@
     </td>
     <td style="text-align: center;">
       <p><strong>Histopathology</strong></p>
-      <img src="hist.png" height="230" width="470">
+      <img src="hist.png" height="230" width="500">
     </td>
     <td style="text-align: center;">
       <p><strong>Computer Vision</strong></p>
-      <img src="35.jpg" height = "230" width = "650">
+      <img src="35.jpg" height = "230" width = "630">
     </td>
   </tr>
 </table>
