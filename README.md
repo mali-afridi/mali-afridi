@@ -9,7 +9,7 @@
   <tr>
     <td style="text-align: center;">
       <p><strong>GEN AI</strong></p>
-      <img src="af9.png" height="250" width = "300">
+      <img src="af9.png" height="250" width = "400">
     </td>
     <td style="text-align: center;">
       <p><strong>Histopathology</strong></p>
