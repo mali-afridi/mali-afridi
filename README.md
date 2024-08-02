@@ -9,15 +9,15 @@
   <tr>
     <td style="text-align: center;">
       <p><strong>Generative AI</strong></p>
-      <img src="af3.png" height="250" width = "450">
+      <img src="af3.png" height="250" width = "470">
     </td>
     <td style="text-align: center;">
       <p><strong>Histopathology</strong></p>
-      <img src="hist.png" height="250" width="450">
+      <img src="hist.png" height="250" width="470">
     </td>
     <td style="text-align: center;">
       <p><strong>Computer Vision</strong></p>
-      <img src="35.jpg" height = "250" width = "680">
+      <img src="35.jpg" height = "250" width = "650">
     </td>
   </tr>
 </table>
